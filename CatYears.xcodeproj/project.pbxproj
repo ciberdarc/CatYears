@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		776181F41E1F2F1D00CEFBA9 /* Screen Shot 2017-01-05 at 7.48.16 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = 776181F31E1F2F1D00CEFBA9 /* Screen Shot 2017-01-05 at 7.48.16 PM.png */; };
 		779C14B41E1F15B70035F527 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 779C14B31E1F15B70035F527 /* AppDelegate.swift */; };
 		779C14B61E1F15B70035F527 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 779C14B51E1F15B70035F527 /* ViewController.swift */; };
 		779C14B91E1F15B70035F527 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 779C14B71E1F15B70035F527 /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		776181F31E1F2F1D00CEFBA9 /* Screen Shot 2017-01-05 at 7.48.16 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screen Shot 2017-01-05 at 7.48.16 PM.png"; sourceTree = "<group>"; };
 		779C14B01E1F15B70035F527 /* CatYears.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CatYears.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		779C14B31E1F15B70035F527 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		779C14B51E1F15B70035F527 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -57,6 +59,7 @@
 				779C14B31E1F15B70035F527 /* AppDelegate.swift */,
 				779C14B51E1F15B70035F527 /* ViewController.swift */,
 				779C14B71E1F15B70035F527 /* Main.storyboard */,
+				776181F31E1F2F1D00CEFBA9 /* Screen Shot 2017-01-05 at 7.48.16 PM.png */,
 				779C14BA1E1F15B70035F527 /* Assets.xcassets */,
 				779C14BC1E1F15B70035F527 /* LaunchScreen.storyboard */,
 				779C14BF1E1F15B70035F527 /* Info.plist */,
@@ -127,6 +130,7 @@
 				779C14BE1E1F15B70035F527 /* LaunchScreen.storyboard in Resources */,
 				779C14BB1E1F15B70035F527 /* Assets.xcassets in Resources */,
 				779C14B91E1F15B70035F527 /* Main.storyboard in Resources */,
+				776181F41E1F2F1D00CEFBA9 /* Screen Shot 2017-01-05 at 7.48.16 PM.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -300,6 +304,7 @@
 				779C14C41E1F15B70035F527 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
